@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(textutil -convert txt -stdout \"/Users/irene/Desktop/Anchor Stories/STAR 2.docx\")",
+      "Bash(textutil -convert txt -stdout \"/Users/irene/Desktop/Anchor Stories/STAR experience.docx\")"
+    ]
+  }
+}

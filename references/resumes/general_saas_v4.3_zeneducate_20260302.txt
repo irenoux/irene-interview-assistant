@@ -1,0 +1,90 @@
+Irene Zhang
+Chicago, IL ▪ (312) 818 0947 ▪ Irene.zhang19@gmail.com ▪ LinkedIn
+Senior Product Manager
+Building and scaling data-driven products across SaaS and real-world operational environments
+
+Senior Product Manager with 8+ years of experience building data-driven products in regulated environments, with a strong focus on translating complex systems into intuitive, customer-centric experiences. Proven track record leading discovery, prioritization, and experimentation to drive measurable improvements in reliability and business outcomes. Comfortable owning ambiguous problem spaces end-to-end and partnering closely with engineering, design, and analytics to ship high-impact consumer products.
+
+
+Core Expertise:  0-to-1 Product Building ▪ Platform & System Product Ownership ▪ Product Metrics ▪
+             Cross-Functional Leadership ▪ Customer Discovery & Experimentation ▪AI/ML Product Development
+
+
+
+Professional Experience
+
+Data Product Manager ▪ Capital One								Nov 2024 to Dec 2025
+
+Data-driven financial services leader pioneering cloud-native technology, real-time intelligence, and modern digital banking innovation.
+
+Led modernization of production data systems, transforming legacy mainframe flows into cloud-native, real-time platforms used daily by recoveries and operations teams. Directed cross-functional engineering, resolved critical data quality defects, accelerated delivery, reduced operational complexity, and built foundational data product frameworks enabling long-term digital transformation. 
+
+	•	Root Cause Discovery & Analysis: Led qualitative and quantitative discovery to identify and resolve a multi-year data reliability issue (“logic drift”), restoring confidence in critical data products and unblocking delayed launches.
+	•	Transformation Architecture: Eliminated 23% redundant logic by refactoring the transformation library and standardizing collaboration between modeling and engineering teams, improving consistency and implementation quality.  
+	•	Data Standardization: Delivered a standardized, cloud-native dataset powering multiple downstream customer and operational experiences, improving consistency, accuracy, and decision-making across products.
+	•	Quality Standards & Acceptance Criteria: Defined success metrics and quality thresholds for transformed account data, establishing clear standards for what “good” looked like at each stage of the pipeline — reducing rework by 72% and improving delivery velocity by 33%.
+	•	Quality & Usability: Improved modeling velocity 12% and reduced re-modeling to <2% by organizing modelers around business domains and processes, reducing context switching and enabling deeper domain expertise that improved the accuracy and consistency of standardized data. 
+	•	Delivery Visibility & Decision Support: Designed operating metrics and structured review routines that gave teams and senior stakeholders clear visibility into cross-team delivery health — surfacing data coverage gaps, reconciliation discrepancies, and handoff failures before they reached downstream consumers — enabling faster, more informed prioritization decisions.
+
+
+Product Manager ▪ Quantexa (London)								Jul 2021 to May 2024
+
+UK’s fastest-growing B2B scale-up delivering contextual decision intelligence with advanced data analytics and AI solutions.
+
+Owned portfolio of Data and Entity Resolution (ER) product lines, setting vision, roadmap, and strategy while driving market research, stakeholder alignment, and cross-functional execution. Led product innovation, AI/ML integrations, GTM planning, and IP protection to strengthen competitiveness and support product-led growth.
+
+	•	SaaS Product Strategy: Led 0-to-1 product discovery and MVP definition for a no-code analytics product, validating early assumptions with users and iterating rapidly based on feedback to improve usability and adoption.
+	•	Strategic Decision-Making under Uncertainty: Made high-stakes product calls under uncertainty by challenging the initial pivot direction, identifying a differentiated path, and preserving 〜80% of prior investment while keeping delivery moving. 
+	•	Moving beyond MVP: Partnered closely with design and engineering to translate qualitative user insights and usage data into prioritized roadmap decisions.
+	•	Labeled Data & Ground Truth Quality: Initiated development of a ground-truth golden dataset for entity parser models, partnering with delivery experts to source high-quality labeled examples from production deployments — navigating data privacy and protection constraints across regulated financial environments to ensure usable, representative training data.
+	•	ML Model Accuracy: Delivered iterative improvements to parser model inputs and configuration that increased entity resolution accuracy by 7%, reducing false positives and lowering dependence on specialist configuration across deployments. 
+	•	GTM Enablement: Enabled sales and early adoption by developing competitive battlecards, redesigning demo flows and clarifying product narratives around explainability, auditability, and time-to-value. 
+	•	External Data Enablement Tooling: Built reusable no-code tooling and schema mapping templates that enabled implementation teams and customers to onboard regulated third-party datasets — including OFAC sanctions lists, AML/KYC registries, and adverse media feeds — without custom modeling from scratch, significantly reducing integration rework and time-to-value across deployments. 
+
+Page two
+Irene Zhang									(312) 818 0947 ▪ Irene.zhang19@gmail.com
+
+Professional Experience Continued
+
+	•	Quality Models & Standards: Identified systemic gaps in entity resolution practices and established cross-functional working groups across delivery, data science, and engineering — resulting in codified quality models, guiding evaluation signals, and shared best practices that improved output confidence across deployments.
+
+Product Owner ▪ Morningstar (London)								Feb 2019 to Jul 2021
+
+Leading global provider of independent investment research and market data empowering informed decisions across financial markets.
+
+Owned all data distribution channels and internal products, overseeing backlog prioritization, agile process improvement, stakeholder alignment, and delivery of scalable, customer-centric data solutions. Modernized client-facing platforms, strengthened internal data architecture, and led global initiatives to streamline integrations, improve reliability, and reduce operational costs.
+
+	•	Reliability Engineering: Upgraded multiple market-data delivery platforms—including streaming feeds, web services, and managed files, enhancing client-facing reliability, performance, and user satisfaction while strengthening the scalability of core distribution channels.
+	•	API Strategy: Streamlined client integrations and improved scalability by consolidating and updating client-facing APIs, reducing development time for customers while boosting performance and simplifying onboarding across all external data consumers.
+	•	Data Architecture: Saved £250k over three years by re-architecting fragmented datasets across 40 plants into one centralized cloud database, delivering consistent, reliable client data and significantly reducing infrastructure complexity.
+	•	Product Management: Managed core internal products, including market statistics, feed filters, and architecture-support tools, ensuring reliability and enabling downstream teams to deliver accurate, high-performance data solutions.
+	•	Operational Performance: Increased team velocity by 8% rebuilding prioritization, backlog grooming, capacity tracking, stakeholder communication, and KPI monitoring processes, transforming the group into a structured, predictable, and higher-performing product function.
+	•	Data Governance: Unified corporate actions data by leading a cross-regional project consolidating sources and data dictionaries with teams in Shenzhen, Mumbai, and London, strengthening data consistency and global operational alignment.
+
+Executive Product Owner ▪ Sthaler (London)							Jul 2017 to Mar 2019
+
+Biometric payment innovator recognized among the world’s most innovative companies, advancing secure, frictionless identity-based transactions.
+
+Owned end-to-end product delivery for consumer-facing mobile and web experiences, from discovery through launch. Partnered with engineering, design, and external vendors to define user stories, lead sprint execution, and align short- and medium-term roadmap priorities.
+
+	•	Product Discovery & Customer Experience: Led analysis of customer-journey data to identify high-friction moments in onboarding and payment flows, driving targeted product changes that reduced user drop-off by 34% and improved overall conversion.
+	•	Engagement & Retention Growth: Shaped and shipped new in-app features and interaction improvements based on behavioral insights, increasing user engagement by 50% and retention by 40%.
+	•	Experimentation & Prioritization: Used pilot programs and A/B testing across onboarding and core features to validate hypotheses, prioritize the backlog, and accelerate product-market fit.
+	•	Cross-Functional Delivery: Coordinated release planning and execution across engineering, operations, sales, and finance, balancing delivery speed with quality and ensuring smooth, predictable launches.
+
+Business Development Manager ▪ JumpWork (Amsterdam)						Aug 2016 to Apr 2017
+
+AI-driven recruitment marketplace optimizing talent matching and hiring efficiency through intelligent automation and predictive insights.
+
+Built and led a high-performing sales team generating €60,000 in total sales. Developed the full sales process and implemented CRM tools to improve efficiency. Provided customer insights to guide product development. Conducted A/B testing to strengthen sales performance. Streamlined the customer journey from 12 to 7 minutes, raising satisfaction from 6/10 to 8.2/10.
+
+Education:		BSc International Business Administration ▪ Rotterdam School of Management, Erasmus University
+
+Certifications:		Responsible AI Leadership ▪ AI 2030 (2024)
+			Product Management ▪ Product Institute (2024)
+			SAFe Product Owner ▪ Scaled Agile Framework (2020)
+			Scrum Product Owner ▪ Scrum Alliance (2017)
+
+Technical Skills:		Jira, Figma, GitHub, Asana, Salesforce, Productboard, Google Analytics, SQL, Postman
+
+Languages:		English (Fluent), German (Fluent), Chinese (Fluent), French (Basic), Dutch (Basic)

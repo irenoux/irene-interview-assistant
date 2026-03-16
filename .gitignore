@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+
+
+
+.DS_Store
+_backup_pre_rebuild/
+coaching_state_ARCHIVED.md
+state_ARCHIVED/
+*.backup
+.env
+api_keys.txt
