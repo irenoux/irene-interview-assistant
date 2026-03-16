@@ -1,12 +1,21 @@
-# OS
-.DS_Store
-
-
-
-.DS_Store
-_backup_pre_rebuild/
+# Personal coaching data — excluded from public repo
+/state/state_index.md
+/state/state_profile.md
+/state/state_stories.md
+/state/state_scores.md
+/state/state_intel.md
+/state/state_tracking.md
+/state/loops/active/
+/state/loops/inactive/
+/eval/golden/my-references.md
+/eval/results/
+/reports/
 coaching_state_ARCHIVED.md
 state_ARCHIVED/
+_backup_pre_rebuild/
 *.backup
+
+# OS
+.DS_Store
 .env
 api_keys.txt
