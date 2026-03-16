@@ -16,6 +16,9 @@ _backup_pre_rebuild/
 *.backup
 state/loops/_index.md
 coaching_state_backup_20260305.md
+eval/golden/my-references.md
+eval/results/
+.claude/
 
 # OS
 .DS_Store
