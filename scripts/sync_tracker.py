@@ -24,10 +24,10 @@ from datetime import date
 from io import StringIO
 from typing import Optional
 
-SHEET_ID = "158MbpIe6TYyQeU_7cFhklXXWxkLrendo"
+SHEET_ID = "YOUR_SHEET_ID_HERE"
 CSV_URL = f"https://docs.google.com/spreadsheets/d/{SHEET_ID}/export?format=csv"
 
-COACHING_STATE = "/Users/irene/Downloads/interview-coach-skill-main/coaching_state.md"
+COACHING_STATE = "./coaching_state.md"
 
 # ── Status mapping ────────────────────────────────────────────────────────────
 # Map your Google Sheet status values → coaching_state.md values.

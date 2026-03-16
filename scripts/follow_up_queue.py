@@ -12,7 +12,7 @@ import re
 import sys
 from datetime import datetime, date
 
-COACHING_STATE = "/Users/irene/Downloads/interview-coach-skill-main/coaching_state.md"
+COACHING_STATE = "./coaching_state.md"
 
 
 def parse_date(s):

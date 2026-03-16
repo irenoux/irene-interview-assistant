@@ -19,7 +19,7 @@ from datetime import datetime, date, timedelta
 from collections import defaultdict
 
 
-COACHING_STATE = "/Users/irene/Downloads/interview-coach-skill-main/coaching_state.md"
+COACHING_STATE = "./coaching_state.md"
 
 # CL style tags expected in Notes field
 CL_STYLE_TAGS = {

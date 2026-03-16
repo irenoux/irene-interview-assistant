@@ -26,7 +26,7 @@ import sys
 import argparse
 from pathlib import Path
 
-COACHING_STATE = "/Users/irene/Downloads/interview-coach-skill-main/coaching_state.md"
+COACHING_STATE = "./coaching_state.md"
 
 
 def load_resume(path: str) -> str:
