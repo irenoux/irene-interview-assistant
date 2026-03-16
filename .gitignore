@@ -14,6 +14,8 @@ coaching_state_ARCHIVED.md
 state_ARCHIVED/
 _backup_pre_rebuild/
 *.backup
+state/loops/_index.md
+coaching_state_backup_20260305.md
 
 # OS
 .DS_Store
