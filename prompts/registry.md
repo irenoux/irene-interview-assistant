@@ -30,11 +30,14 @@
 | track | layer3-commands/track.md | — | state_tracking, loops/_index |
 | write | layer3-commands/write.md | differentiation.md, storybank-guide.md | state_profile, state_stories, state_tracking |
 | help | layer3-commands/help.md | — | — |
+| day | layer4-orchestration/day.md | — | state_index, loops/_index, state_tracking |
+| week | layer4-orchestration/week.md | — | state_index, state_intel, state_tracking, state_scores |
 
 ## Loading Protocol
 1. Always loaded: CLAUDE.md → identity.md → session-protocol.md → state-schema.md → state_index.md
 2. Per command: Read registry row → load prompt file + shared files + state files
 3. Orchestration: day.md (daily trigger) or week.md (weekly trigger)
+4. Orchestration commands: day → load day.md; week → load week.md. These can be triggered by user OR external automation.
 
 ## Shared Files Location
 All shared files are in /prompts/shared/:
